@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "projectName": "React Hostel Meal Website",
+        "image": "https://i.ibb.co/hmYg6K9/screencapture-fahiml-committee-surge-sh-2023-12-11-09-45-41.png",
+        "githubLink": "https://github.com/abdullahal5/private-to-public"
+    },
+    {
+      "id": 2,
+      "projectName": "React Car Website",
+      "image": "https://i.ibb.co/C9sgss9/screencapture-waggish-oven-surge-sh-2023-12-11-09-50-18.png",
+      "githubLink": "https://github.com/abdullahal5/assignment10"
+    },
+    {
+      "id": 3,
+      "projectName": "React Job Website",
+      "image": "https://i.ibb.co/Q8YzGKM/screencapture-careercanvas-surge-sh-2023-12-11-09-52-01.png",
+      "githubLink": "https://github.com/abdullahal5/assignment12"
+    }
+]
